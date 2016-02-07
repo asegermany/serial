@@ -32,3 +32,8 @@ doc/html
 ipch
 Debug
 Release
+CMakeFiles
+*.cmake
+*example
+*.a
+Makefile
